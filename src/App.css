@@ -26,7 +26,7 @@ header h2 {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  border: 10px solid;
+  /* border: 10px solid; */
 }
 
 h4 {
@@ -41,22 +41,22 @@ span {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.job-box .description {
+.description {
   margin: 18px;
 }
 
-.job-box .red {
-  border: red;
+.red {
+  border: 10px solid red;
 }
-.job-box .blue {
-  border: blue;
+.blue {
+  border: 10px solid blue;
 }
-.job-box .green {
-  border: green;
+.green {
+  border: 10px solid green;
 }
-.job-box .yellow {
-  border: yellow;
+.yellow {
+  border: 10px solid yellow;
 }
 .beige {
-  border: beige;
+  border: 10px solid #f8c5af;
 }
